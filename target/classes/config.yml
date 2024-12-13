@@ -1,0 +1,17 @@
+# Real Invisibility Configuration
+
+# Hide Equipment
+helmet: true
+chestplate: true
+leggings: true
+boots: true
+
+# Hide Items
+mainhand: true
+offhand: true
+
+# Hide Arrows in Body
+arrows: true
+
+# Hide Effect Particles
+particles: true

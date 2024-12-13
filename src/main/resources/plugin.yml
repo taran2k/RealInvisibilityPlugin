@@ -1,0 +1,12 @@
+name: RealInvisibility
+version: 1.0.0
+description: Enhanced invisibility plugin using ProtocolLib
+author: taran2k
+main: com.github.taran2k.realinvisibility.RealInvisibilityPlugin
+load: STARTUP
+
+depend:
+  - ProtocolLib
+
+commands: {}
+permissions: {}
